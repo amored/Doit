@@ -33,10 +33,10 @@
                         </connections>
                     </tableView>
                     <navigationItem key="navigationItem" title="Do It" id="iG2-oc-aeL">
-                        <barButtonItem key="rightBarButtonItem" systemItem="compose" id="OQa-3W-2K1">
+                        <barButtonItem key="rightBarButtonItem" systemItem="compose" id="loK-Ze-2eB">
                             <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                             <connections>
-                                <action selector="addButtonPressed:" destination="YKq-yC-sq5" id="AS3-1K-Fhg"/>
+                                <action selector="addButtonPressed:" destination="YKq-yC-sq5" id="4Tf-ou-cxV"/>
                             </connections>
                         </barButtonItem>
                     </navigationItem>
